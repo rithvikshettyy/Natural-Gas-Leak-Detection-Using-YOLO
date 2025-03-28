@@ -1,4 +1,4 @@
-# Natural Gas Pipeline Leak Detection using YOLO
+# Natural Gas Leak Detection using YOLO
 
 ## 🚀 Overview
 This project uses **YOLO (You Only Look Once)** to detect **natural gas leaks** from pipeline images and videos. It applies **deep learning and computer vision** techniques to automate the detection process and improve safety measures.
